@@ -1,0 +1,3 @@
+#FFE500 - amarelo
+#E27B1D - laranja
+#E6322E - vermelho

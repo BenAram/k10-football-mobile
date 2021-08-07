@@ -1,0 +1,16 @@
+{
+  type: 'radar',
+  data: {
+    labels: ['Q1', 'Q2', 'Q3', 'Q4', 'A', 'B', 'C', 'D', 'E'],
+    datasets: [{
+      label: 'Revenue',
+      data: [100, 200, 300, 400, 500, 600, 700],
+      backgroundColor: 'rgba(162, 166, 233, 0.5)'
+    }]
+  },
+  options: {
+    legend: {
+    	display: false
+  	}
+  }
+}
